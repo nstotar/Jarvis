@@ -1,3 +1,3 @@
 # Jarvis
 voiceAssistant
-install all the libraries to execute this jarvis
+install all the imported libraries to execute this jarvis
